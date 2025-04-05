@@ -22,7 +22,7 @@ A lightweight command-line utility for tracking cryptocurrency prices in real-ti
 
 1. Clone this repository:
    ```
-   git clone https://github.com/YOUR_USERNAME/crypto-prices.git
+   git clone https://github.com/lsiem/crypto-prices.git
    cd crypto-prices
    ```
 
